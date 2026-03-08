@@ -23,6 +23,7 @@ body {
     padding: 20px;
     width: 100%;
     max-width: 400px;
+    transition: box-shadow 0.2s ease-in-out;
 }
 
 .container:hover {
@@ -76,4 +77,5 @@ button:hover {
     background-color: #448AFF;
 
 }
+
 
